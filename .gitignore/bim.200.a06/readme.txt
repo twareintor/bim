@@ -6,7 +6,7 @@ Version.Author = "Claudiu Ciutacu - Copyright (c) 2017/2018 Claudiu Ciutacu"
 Version.Comment = "/**
 * The purpose of the program is to develop and test a function that outputs a grayscale bitmap image in a file
 * (e.g. "out.bmp") which pixel colors (gray scale) are read from an input text file (e.g. "level.txt") which 
-* usually represent an ASCII art text. 
+* usually represent an ASCII art text. I use to use it for creating heightmaps at runtime in another applications. 
 * It gets its dimensions from the number of lines of the input file (bitmap height) and the longest line of the
 * input text (bitmap width) which buffer is processed too in order all the lines to be the same lenght, by padding
 * them with spaces.
