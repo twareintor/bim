@@ -1,0 +1,1 @@
+https://github.com/twareintor/bim/tree/master/.gitignore/bim.200.a06
